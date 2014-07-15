@@ -1044,10 +1044,6 @@ form.border-radius fieldset {
     width: 100%;
   }
 
-  .row.gutters {
-	  padding: 0 2% 0 2%;	
-  }
-
   .gutters .column-1 {
     width: 4.375%;
   }
